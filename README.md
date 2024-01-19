@@ -1,2 +1,7 @@
 # Batalla-naval
-Proyecto creado como parcial de la facultad. Lenguaje c++ basico, sin POO. 
+## Tecnologias:
+C++
+GITHUB
+PROGRAMACION FUNCIONAL
+
+
